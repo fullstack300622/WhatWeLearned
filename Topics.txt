@@ -18,7 +18,6 @@
 + primitive type variables (double,long,int,fload,bool..)
 + class
 + constructors
-~ scopes
 ~ castings
 + logical operators  -> OR , AND 
 + assigment operator  -> = 
@@ -28,3 +27,5 @@
 + switch case break;
 + loops -> for, while, do while
 + String.equals 
+~ scopes
++ encapsulation
