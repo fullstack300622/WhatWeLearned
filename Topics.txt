@@ -1,4 +1,4 @@
-~ static
++ static
 ~ access modifiers
 + this
 + supper
