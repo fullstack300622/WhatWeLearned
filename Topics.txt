@@ -29,3 +29,6 @@
 + String.equals 
 ~ scopes
 + encapsulation
++ ArrayList
++ Polymorphism
++ Abstract Class
