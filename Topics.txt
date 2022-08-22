@@ -26,9 +26,16 @@
 + if else
 + switch case break;
 + loops -> for, while, do while
-+ String.equals 
-~ scopes
-+ encapsulation
-+ ArrayList
++ forEach
++ String.equals
++ toString (override);
++ scopes
++ encapsulation (getters and setters, instance variables private)
++ ArrayList 
 + Polymorphism
++ Runtime Polymorphism
 + Abstract Class
++ Interface
++ Composition
++ static block, instance block
++ try catch
