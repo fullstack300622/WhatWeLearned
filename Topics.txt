@@ -19,7 +19,7 @@
 + class
 + constructors
 ~ castings
-+ logical operators  -> OR , AND 
++ logical operators  -> OR , AND, == 
 + assigment operator  -> = 
 + ternary operator 
 + conditoins
